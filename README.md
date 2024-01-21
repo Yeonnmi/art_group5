@@ -3,8 +3,8 @@
 Jaime Luis Manalo, Kielo Bash Mercado, Hurley Valen Salig
 
 ### DESCRIPTION:
-The task is to reuse existing NetLogo CA models and produce rules that generate beautiful CA art.
-All models provided by the libraries of Netlogo.
+The task is to "reuse existing NetLogo CA models and produce rules that generate beautiful CA art."
+All models we used are provided by the libraries of Netlogo.
 ### Game of Life Art
 Based on the game of life model in netlogo, where in cells have 3 rules based on neighboring cells. These rules are birth, where a new cell is created, death,  where a cell is killed, and survival, where a cell is retained.
 ### Elementary Cellular Automata Art
