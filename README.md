@@ -1,2 +1,6 @@
-# art_group5
-modified game of life into brain art
+# modified Game of Life into art group5
+### MEMBERS:
+Jaime Luis Manalo, Kielo Bash Mercado, Hurley Valen Salig
+
+### DESCRIPTION:
+Lorem Ipsum...
